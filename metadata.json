@@ -1,6 +1,8 @@
 {
-  "name": "Invoice Generator",
-  "description": "Generate professional tax invoices matching GCC / UAE e-invoicing templates with line items, tax calculations, amount in words, bank details, and instant PDF export.",
+  "name": "Remix UAE Business Finance Ledger",
+  "description": "UAE business financial tracker for bank accounts, petty cash, inter-account transfers, and digital receipts in AED with Google Sheets sync.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
