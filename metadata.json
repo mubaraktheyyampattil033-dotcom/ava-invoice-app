@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Generator",
+  "description": "Generate professional tax invoices matching GCC / UAE e-invoicing templates with line items, tax calculations, amount in words, bank details, and instant PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
